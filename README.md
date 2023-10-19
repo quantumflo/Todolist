@@ -3,7 +3,8 @@
 List of todos
 
 # Features
-> Add/Delete Notes
+> Add Notes
+> Delete Notes
 > List all Notes
 
 # Tech
